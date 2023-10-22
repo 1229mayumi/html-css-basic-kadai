@@ -1,0 +1,25 @@
+#first-heading{
+  text-align: center;
+  letter-spacing: 1em;
+  border-bottom:solid 1px black;
+}
+.color-m {
+  color: aqua; /* 水色 */
+}
+.color-p {
+  color: pink; /* ピンク */
+}
+
+
+#first-item{
+  color: pink;
+  text-align: center;
+}
+#second-item{
+  color:aqua;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
